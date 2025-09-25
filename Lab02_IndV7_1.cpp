@@ -8,7 +8,7 @@ int main()
 {
     setlocale(0, "");
 
-    const double pi = 3.11; //Так в условии было
+    const double pi = 3.14; //Исправил 3.11. А то что задачка
 
 	int nx;
     double x;
